@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Santitwozzseis
+- 👋 Hi, I’m Kyle!
 - 👀 I’m interested in learning languages. That's why I'm here exploring the programming languages.
 - 🌱 I’m currently learning Python and Javascript
 - 💞️ I’m looking to collaborate on creating mini projects
